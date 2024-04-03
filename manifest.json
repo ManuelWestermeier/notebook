@@ -7,8 +7,8 @@
     "short_name": "Notenbuch",
     "theme_color": "rgb(239, 239, 239)",
     "description": "Notenbuch für Lehrer",
-    "orientation": "any",
-    "background_color": "rgb(239, 239, 239)",
+    "orientation": "portrait",
+    "background_color_": "rgb(239, 239, 239)",
     "related_applications": [],
     "prefer_related_applications": false,
     "display_override": [
