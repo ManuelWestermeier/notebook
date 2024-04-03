@@ -10,8 +10,8 @@ if (location.port != 5173) {
             addResourcesToCache([
                 "/",
                 "/index.html",
-                "/assets/index-DafP588e.css",
-                "/assets/index-Ddax2mGa.js",
+                "/assets/index-CXeCIOFh.js",
+                "/assets/index-SKM2UN-v.css",
                 "/logo.png",
                 "/manifest.json",
                 "/service-worker.js"
